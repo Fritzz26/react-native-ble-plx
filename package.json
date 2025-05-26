@@ -51,7 +51,7 @@
     "build:plugin": "tsc --build plugin",
     "clean:plugin": "expo-module clean plugin",
     "test:plugin": "jest --config plugin/jest.config.js",
-    "prepare": "echo skip prepare",
+    "prepare": "echo skip Prepare",
     "lint:plugin": "eslint plugin/src/*"
   },
   "keywords": [
